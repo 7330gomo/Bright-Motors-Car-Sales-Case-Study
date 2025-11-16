@@ -66,3 +66,12 @@ Implement targeted campaigns based on sales patterns by weekday, weekend, and mo
 
 Continuously monitor sales performance to adjust pricing and marketing strategies in real-time.
 
+# Tools Used
+Planning: Miro
+
+Data Processing Platform: Snowflake
+
+Data Visualization: Microsoft Excel
+
+Presentation: Microsoft PowerPoint
+
